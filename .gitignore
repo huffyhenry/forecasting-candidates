@@ -1,0 +1,7 @@
+.idea/
+.Rproj.user
+*.Rproj
+*.rds
+scrape.py
+requirements.txt
+data/
