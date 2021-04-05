@@ -4,4 +4,7 @@
 *.rds
 scrape.py
 requirements.txt
-data/
+data/raw
+*.pgn
+!2021/data/pgn/.candidates2020.pgn
+compiled-models/

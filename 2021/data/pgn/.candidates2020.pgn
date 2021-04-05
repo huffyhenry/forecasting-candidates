@@ -1,0 +1,748 @@
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.17"]
+[Round "1.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2842"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6
+9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 exd4 13. cxd4 Nb4 14. Nc3 Bb7 15. Ng5
+Qe7 16. e5 dxe5 17. Nxf7 e4 18. Nd6+ Kh8 19. Nxb7 Rxb7 20. Qe2 c6 21. Rad1 Rd7
+22. f3 exf3 23. Rxf3 c5 24. dxc5 Rxd1+ 25. Nxd1 Bxc5 26. Qf2 Bd6 27. Nc3 Nd3 28.
+Qe2 Nc5 29. Ba2 Re8 30. Qd2 Nce4 31. Nxe4 Nxe4 32. Qd3 Ng5 33. Bxg5 Bc5+ 34. Kh1
+Qxg5 35. Rf1 Qe5 36. Qd5 Qe2 37. Qf5 Qe5 38. Qxe5 Rxe5 39. Rd1 g6 40. Bd5 Re7
+41. Bc6 Re2 42. Bb7 Rxb2 43. Bxa6 Ra2 44. Bxb5 Rxa5 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.17"]
+[Round "1.2"]
+[White "Ding, Liren"]
+[Black "Wang, Hao"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2762"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "8603677"]
+[BlackFideId "8602883"]
+[EventDate "2020.03.17"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. d3 O-O 5. Nc3 c6 6. Nf3 d6 7. O-O Re8 8. Na4
+Bb4 9. a3 Ba5 10. b4 Bc7 11. e4 a5 12. Bb2 Na6 13. b5 cxb5 14. cxb5 Nc5 15. Nxc5
+dxc5 16. a4 Bg4 17. Ra3 Nd7 18. h3 Bh5 19. Qb1 b6 20. Nd2 Nf8 21. Bf3 Qg5 22. h4
+Qg6 23. Qd1 Bxf3 24. Qxf3 h5 25. Qf5 Rad8 26. Qxg6 Nxg6 27. Kg2 f6 28. Nc4 Kf7
+29. Bc1 Rd7 30. f4 exf4 31. Bxf4 Nxf4+ 32. gxf4 f5 33. e5 Re6 34. Kf3 Rg6 35.
+Ne3 Ke6 36. Rd1 Bd8 37. Ra2 Rd4 38. Nc2 Rd5 39. Ne3 Rd7 40. Rdd2 Bxh4 41. Rg2
+Rg4 42. Rh2 g6 43. Nxg4 fxg4+ 44. Ke3 Be7 45. Rac2 h4 0-1
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.17"]
+[Round "1.3"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2774"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2020.03.17"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Ndb5 Ne5 8.
+Bf4 Nfg4 9. e3 a6 10. h3 axb5 11. hxg4 Nxc4 12. Rc1 d5 13. b3 Bb4 14. bxc4 Ra3
+15. Be5 f6 16. Bd4 Qa5 17. Be2 Bxc3+ 18. Rxc3 Rxc3 19. Kf1 b4 20. g5 e5 21. Bxc3
+bxc3 22. gxf6 gxf6 23. Qb1 Qc7 24. Qd3 b5 25. Qxc3 bxc4 26. e4 dxe4 27. Rh4 Be6
+28. Rxe4 O-O 29. Bxc4 Kg7 30. Qb3 Rb8 31. Bxe6 Rxb3 32. Rg4+ Kf8 33. Bxb3 Qc1+
+34. Kg2 Qc6+ 35. Kg1 h5 36. Rg8+ Ke7 37. Rg7+ Kd6 38. Rh7 Qf3 39. Rh8 e4 40.
+Rd8+ Ke7 41. Bd1 Qc3 42. Rd5 h4 43. gxh4 f5 44. Rxf5 Qe1+ 45. Kg2 Qxd1 46. Rg5
+Qa1 47. Rg4 Qb1 48. Rg3 Qxa2 49. Rh3 Qd5 50. Kf1 Qd1+ 51. Kg2 Qg4+ 52. Rg3 Qh5
+53. Ra3 Qd5 54. Kg1 Kf6 55. Rg3 Qd1+ 56. Kg2 Kf5 57. Rg5+ Kf4 58. Rg3 Qd5 59.
+Kf1 Qd2 60. Kg2 Qd1 61. Re3 Kf5 62. Rg3 Kf6 63. Rh3 Kg6 64. Rg3+ Kh5 65. Rh3 Qb1
+66. Re3 Kxh4 67. Rg3 Kh5 68. Rh3+ Kg4 69. Rg3+ Kf4 70. Re3 Qd1 71. Ra3 Ke5 72.
+Rg3 Kd4 73. Re3 Qd3 0-1
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.17"]
+[Round "1.4"]
+[White "Grischuk, Alexander"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2698"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "4126025"]
+[BlackFideId "4135539"]
+[EventDate "2020.03.17"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. d3 d5 5. cxd5 Nxd5 6. Nc3 Nxc3 7. bxc3 O-O 8.
+Qc2 Nc6 9. Nf3 h6 10. O-O Rb8 11. Bb2 b6 12. Rad1 Qe8 13. e4 Bd6 14. Nh4 Bg4 15.
+f3 Bd7 16. f4 exf4 17. gxf4 Na5 18. Rde1 Qd8 19. Qf2 Nc4 20. Bc1 Bc5 21. d4 Be7
+22. Nf3 f5 23. Qe2 Nd6 24. e5 Ne4 25. Nd2 Nxd2 26. Bxd2 Be6 27. Qd3 Qd7 28. Be3
+c6 29. a4 a6 30. Qxa6 Ra8 31. Qxb6 Bd5 32. Qb2 Rxa4 33. Ra1 Rfa8 34. Rxa4 Rxa4
+35. Ra1 Rxa1+ 36. Qxa1 Bxg2 37. Kxg2 Qd5+ 38. Kf2 Bh4+ 39. Ke2 Qg2+ 40. Kd3 Qe4+
+41. Kd2 Qg2+ 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.18"]
+[Round "2.1"]
+[White "Caruana, Fabiano"]
+[Black "Alekseenko, Kirill"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2842"]
+[BlackElo "2698"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4135539"]
+[EventDate "2020.03.17"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5
+exd5 9. exd5 O-O 10. Be2 Re8 11. Nf3 Bg4 12. O-O Nbd7 13. d6 Bf8 14. h3 Bh5 15.
+Nb5 Re6 16. Bf4 a6 17. Nc7 Re4 18. Bh2 Rc8 19. g4 Bxg4 20. hxg4 Nxg4 21. Bd3
+Nxh2 22. Bxe4 Nxf1 23. Qxf1 Bxd6 24. Nd5 g6 25. Qh3 Kg7 26. Kh1 Ne5 27. Nh4 h5
+28. Rg1 Bf8 29. Nf4 Ng4 30. Nxh5+ gxh5 31. Bf5 Be7 32. Bxg4 hxg4 33. Qxg4+ Bg5
+34. Qh5 1-0
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.18"]
+[Round "2.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "4126025"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
+Bb4 15. a3 Bxc3 16. bxc3 h4 17. Kh2 Kf8 18. Rb1 b6 19. Rb4 Re8 20. Ra4 a5 21.
+Bd2 c5 22. Rf4 Rh5 23. Rf3 Kg8 24. Bc1 Ne7 25. g4 hxg3+ 26. fxg3 Nc6 27. Bf4 Bc8
+28. Rfe3 Nd8 29. Kg2 Ne6 30. Nxe6 Bxe6 31. g4 Rh8 32. Bg5 Kh7 33. Kg3 Rb8 34.
+Rd3 Rhe8 35. Red1 b5 36. Rd8 b4 37. Rxe8 Rxe8 38. cxb4 cxb4 39. axb4 axb4 40.
+Rd8 Rxd8 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.18"]
+[Round "2.3"]
+[White "Wang, Hao"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2763"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "24116068"]
+[EventDate "2020.03.17"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nf3 e6 6. h4 h6 7. d4 cxd4 8. Nb5 d5
+9. cxd5 exd5 10. O-O Nf6 11. Bf4 O-O 12. Qc1 a6 13. Nbxd4 Nxd4 14. Nxd4 Kh7 15.
+Rd1 Re8 16. Qc7 Qxc7 17. Bxc7 Bg4 18. f3 Rac8 19. Ba5 Bd7 20. Kf2 h5 21. Bf1 Ng8
+22. Bc3 Bh6 23. Rd3 Ne7 24. Rad1 Bg7 25. e3 Kg8 26. R3d2 Ba4 27. Re1 Bd7 28. Ne2
+Rc7 29. Bxg7 Kxg7 30. Nc3 Be6 31. Red1 b5 32. a3 Rb8 33. Ne2 a5 34. Nd4 Bd7 35.
+b4 axb4 36. axb4 Ra8 37. Rb2 Ra4 38. Rdb1 Rb7 39. Rc1 Rba7 40. Nxb5 Bxb5 41.
+Bxb5 Ra3 42. Be2 Rb7 43. b5 Rb6 44. Rd1 Kf6 45. Rdd2 Rb7 46. Bd3 Nc8 47. e4 dxe4
+48. Bxe4 Rb6 49. Rd7 Rc3 50. Rb7 Rxb7 51. Bxb7 Nb6 52. Be4 Ke5 53. Rd2 Rb3 54.
+Bc6 Nc4 55. f4+ Kf6 56. Rd8 Rb2+ 57. Kf3 Nd2+ 58. Ke3 Nf1+ 59. Kf3 Nd2+ 60. Ke2
+Ne4+ 61. Kf3 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.18"]
+[Round "2.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2805"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "623539"]
+[BlackFideId "8603677"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. a3 Qd7 11. Nc3 Rfe8 12. Bd2 Nd8 13. Nd5 Nxd5 14. exd5 c5 15. a4
+f5 16. axb5 axb5 17. Rxa8 Bxa8 18. c4 Nf7 19. cxb5 g5 20. Nh2 Kg7 21. Bc4 Kg6
+22. g4 Nh6 23. Qf3 Bd8 24. Qg2 f4 25. b4 Bb6 26. Qe4+ Kg7 27. bxc5 dxc5 28. Nf3
+Nf7 29. Bc3 Bc7 30. b6 Bb8 31. Qf5 Qxf5 32. gxf5 Kf6 33. Nd2 Rd8 34. d6 Rxd6 35.
+Rb1 Nd8 36. b7 Bxb7 37. Ba5 1-0
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.19"]
+[Round "3.1"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2842"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[WhiteFideId "8603677"]
+[BlackFideId "2020009"]
+[EventDate "2020.03.17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. Nxc4
+O-O 9. Kf2 e5 10. Nxe5 Bc2 11. Qd2 c5 12. d5 Bb3 13. e4 Re8 14. Qf4 c4 15. Nxc4
+Nbd7 16. Be3 Nf8 17. Bd4 Ng6 18. Qf5 Bxc4 19. Bxc4 Qc7 20. Be2 Bc5 21. Bxc5
+Qxc5+ 22. Kf1 h6 23. Rd1 Qb6 24. Rd2 Qe3 25. Rc2 a6 26. Qh3 b5 27. Qg3 b4 28.
+Nd1 Qb3 29. Rd2 Qxa4 30. Qf2 Qd7 31. g3 Qh3+ 32. Kg1 a5 33. Qd4 Nh5 34. Nf2 Qd7
+35. f4 Nhxf4 36. gxf4 Nxf4 37. Kf1 Qd6 38. Rg1 f6 39. Bb5 Re7 40. b3 Rf8 41. Rc2
+Ne6 42. Qe3 Ng5 43. h4 Nf7 44. Rc6 Qb8 45. Qc5 Qd8 46. Rxf6 Kh8 47. Rf5 Rc7 48.
+Bc6 a4 49. bxa4 b3 50. Rg3 b2 51. Rb3 Nd6 52. Rxf8+ Qxf8 53. Rxb2 Qf4 54. Rb8+
+Kh7 55. Qc2 Re7 56. e5+ Nf5 57. Qe4 Qc1+ 58. Kg2 g6 59. Rb3 1-0
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.19"]
+[Round "3.2"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2767"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "623539"]
+[EventDate "2020.03.17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 c5 8. d5
+Bxc3+ 9. bxc3 O-O 10. Qd2 Qd6 11. f4 e6 12. Bc4 b5 13. Bxb5 exd5 14. Bc4 Bb7 15.
+Nf3 Nd7 16. O-O Nb6 17. Be2 d4 18. e5 Qd7 19. cxd4 Rad8 20. Rad1 Bxf3 21. Rxf3
+Qxd4+ 22. Qxd4 Rxd4 23. Rxd4 cxd4 24. Rd3 Rd8 25. Bd1 Nc4 26. Kf2 Nb2 27. Rd2
+Nc4 28. Rd3 Nb2 29. Rd2 Nc4 30. Rd3 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.19"]
+[Round "3.3"]
+[White "Grischuk, Alexander"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2762"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "8602883"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 d5 7. Bd3 Bd6 8. Qe2+
+Be6 9. Ng5 Qe7 10. Nxe6 fxe6 11. c3 c5 12. Nd2 Nc6 13. Nf3 O-O 14. O-O cxd4 15.
+cxd4 e5 16. dxe5 Nxe5 17. Nxe5 Qxe5 18. Qxe5 Bxe5 19. f3 Bd4+ 20. Kh1 Rac8 21.
+Rd1 Rfe8 22. g3 Kf7 23. Kg2 g6 24. Bd2 Be3 25. h4 Re6 26. Bxe3 Rxe3 27. Kf2 Re6
+28. Rd2 Ke7 29. Rad1 Rec6 30. g4 a6 31. h5 Kf7 32. a3 Re8 33. hxg6+ hxg6 34. g5
+Ne4+ 35. Bxe4 dxe4 36. Re1 exf3 37. Rd7+ Kf8 38. Rh1 Kg8 39. Rxb7 Rc2+ 40. Kxf3
+Rc5 41. Rh4 Rxg5 42. b4 Rge5 43. Rd4 Re3+ 44. Kf4 Rxa3 45. Rd6 Ra1 46. Rxg6+ Kh8
+47. Rh6+ Kg8 48. Rg6+ Kh8 49. Rh6+ Kg8 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.19"]
+[Round "3.4"]
+[White "Alekseenko, Kirill"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2774"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[WhiteFideId "4135539"]
+[BlackFideId "4168119"]
+[EventDate "2020.03.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Qc7 8. Nf3
+b6 9. Bb5+ Bd7 10. Be2 Ba4 11. O-O Nd7 12. Be3 h6 13. Ra2 Nf5 14. Bf4 Qc6 15.
+Rb2 a6 16. dxc5 Qxc5 17. Rb4 b5 18. Bd3 Ne7 19. Bd2 Nc6 20. Qe2 Nxb4 21. axb4
+Qc7 22. Re1 Nb8 23. Nd4 Nc6 24. Qg4 Nxd4 25. cxd4 g6 26. h5 gxh5 27. Qxh5 O-O-O
+28. f4 Kb8 29. c3 Bb3 30. f5 Bc4 31. Bc2 Rdg8 32. Kf2 a5 33. bxa5 Qxa5 34. Qxf7
+Qa2 35. Qxe6 Qxc2 36. Qb6+ Kc8 37. Qc6+ Kb8 38. Qb6+ Kc8 39. Qc6+ Kb8 40. Qb6+ 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.21"]
+[Round "4.1"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2842"]
+[BlackElo "2774"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4168119"]
+[EventDate "2020.03.17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 b6 11. Qd2 Bb7 12. Rfd1 cxd4 13. cxd4 Rc8 14. Rac1
+Na5 15. Bd3 Qd7 16. h4 Rxc1 17. Rxc1 Rc8 18. h5 Rxc1+ 19. Qxc1 Qc8 20. h6 Bf8
+21. d5 e6 22. Nc3 Nc4 23. Bxc4 Qxc4 24. Qd2 exd5 25. Nxd5 Bxd5 26. exd5 Qb4 27.
+Qd3 Qa3 28. Qc2 Qa5 29. Qd1 Bd6 30. g3 Kf8 31. Qf3 Qe1+ 32. Kg2 f5 33. g4 Qb1
+34. Bd4 Kf7 35. Qe3 Qe4+ 36. Qxe4 fxe4 37. f3 exf3+ 38. Kxf3 Ke7 39. Ke4 Kd7 40.
+a4 Bc7 41. Be3 a6 42. Bd2 b5 43. axb5 axb5 44. Kd4 Bb6+ 45. Kd3 Bc5 46. Bc3 Ba3
+47. Bg7 Bc5 48. Bc3 Bf8 49. Bg7 Be7 50. Kd4 Bd6 51. Bf6 Kc7 52. Bg5 Kb6 53. Bd8+
+Ka6 54. Kd3 Bf8 55. Kd4 Bd6 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.21"]
+[Round "4.2"]
+[White "Wang, Hao"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2698"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "8602883"]
+[BlackFideId "4135539"]
+[EventDate "2020.03.17"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c6 7. Nbd2 a5 8. b3 Bf5
+9. Bb2 a4 10. bxa4 Qa5 11. Qb3 Nbd7 12. cxd5 cxd5 13. Rfc1 Ra6 14. e3 Qxa4 15.
+Bf1 Qxb3 16. axb3 Rxa1 17. Rxa1 Nb6 18. Ra7 Rb8 19. Ne5 Nfd7 20. Bb5 f6 21. Nxd7
+Bxd7 22. Ra5 Bf5 23. Ba3 Bf8 24. Bc5 Nd7 25. Ra7 Nxc5 26. dxc5 e5 27. b4 b6 28.
+c6 Bxb4 29. e4 dxe4 30. Nxe4 Bxe4 31. c7 Rf8 32. Bc4+ Kh8 33. Be6 Bf5 34. c8=Q
+Rxc8 35. Bxc8 Bxc8 36. Ra8 Kg7 37. Rxc8 Bc5 38. Rc7+ Kh6 39. h4 f5 40. Kg2 e4
+41. Kf1 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.21"]
+[Round "4.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4126025"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
+Bb4 15. a3 Bxc3 16. bxc3 h4 17. g4 hxg3 18. fxg3 Ne7 19. h4 Nd5 20. Bc1 Nxc3 21.
+Rd3 Na4 22. Rf3 Bd5 23. Rf4 Nb6 24. Ref1 Rg6 25. Rf5 Bc4 26. Re1 Ke7 27. h5 Rh6
+28. g4 Rhh8 29. a4 Nxa4 30. Ba3+ c5 31. e6 f6 32. Bxc5+ Nxc5 33. Rxc5 fxg5 34.
+Rxc7+ Kd6 35. Rxc4 a5 36. Rd1+ Ke7 37. Re4 Rhd8 38. Rb1 Rdb8 39. Rb5 a4 40. Rxg5
+Rg8 41. h6 gxh6 42. Rxg8 Rxg8 43. Rxa4 h5 44. Kf2 Rxg4 45. Rxg4 hxg4 46. Kg3
+Kxe6 47. Kxg4 Ke5 48. Kf3 Kd4 49. Ke2 Kc3 50. Kd1 b5 51. Kc1 b4 52. Kb1 b3 53.
+cxb3 Kxb3 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.21"]
+[Round "4.4"]
+[White "Ding, Liren"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2763"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "8603677"]
+[BlackFideId "24116068"]
+[EventDate "2020.03.17"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 a5 5. Bg2 d5 6. Nf3 O-O 7. Qc2 c5 8. cxd5
+cxd4 9. Nxd4 Qb6 10. e3 exd5 11. O-O Nc6 12. Nxc6 bxc6 13. Rc1 Rb8 14. Bxb4 Qxb4
+15. b3 h5 16. Nc3 h4 17. Ne2 Bd7 18. Nf4 hxg3 19. hxg3 Rfc8 20. Bf3 a4 21. bxa4
+Ra8 22. Nd3 Qxa4 23. Qxa4 Rxa4 24. Nc5 Ra5 25. a4 Rca8 26. Bd1 Be8 27. Kf1 Kf8
+28. Rab1 Ne4 29. Nxe4 dxe4 30. Rb7 c5 31. Bb3 R5a7 32. Rxa7 Rxa7 33. Ke1 Ke7 34.
+Ra1 c4 35. Bc2 Kd6 36. Kd2 Kc5 37. Kc3 Ra6 38. g4 g5 39. a5 Bc6 40. Ra2 Ra7 41.
+Ra1 Ra6 42. Ra2 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.22"]
+[Round "5.1"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2842"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "24116068"]
+[BlackFideId "2020009"]
+[EventDate "2020.03.17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Bd2 Be7
+9. Nxg6 hxg6 10. Qc2 Nbd7 11. O-O-O Nb6 12. c5 Nbd7 13. Kb1 Qb8 14. h4 g5 15.
+Be1 g4 16. e4 gxf3 17. gxf3 b6 18. exd5 exd5 19. cxb6 axb6 20. Ne2 Qa7 21. b3
+Nh5 22. Ng3 g6 23. Nxh5 Rxh5 24. f4 Kf8 25. Be2 Rh8 26. Bd3 c5 27. Bc3 cxd4 28.
+Bxd4 Bf6 29. Bxf6 Nxf6 30. f5 gxf5 31. Bxf5 b5 32. Rh2 Rh5 33. Re2 d4 34. Re5
+Ng4 35. Rc5 Ne3 36. Rc8+ Rxc8 37. Qxc8+ Ke7 38. Rc1 Nd5 39. Re1+ Ne3 40. Rc1 Nd5
+41. Re1+ Ne3 42. Rc1 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.22"]
+[Round "5.2"]
+[White "Grischuk, Alexander"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2805"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "4126025"]
+[BlackFideId "8603677"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 Qd7 12. a4 f6 13. Ne4 Na5 14. Ba2 c5 15. Be3
+Rfc8 16. axb5 axb5 17. Nxc5 Rxc5 18. b4 Rcc8 19. bxa5 Kh8 20. Bd2 Nb4 21. Bb3
+Bd5 22. Bxd5 Qxd5 23. Rc1 Nc6 24. c4 bxc4 25. Rxc4 Nxa5 26. Rxc8+ Rxc8 27. d4
+Nc6 28. dxe5 Nxe5 29. Nxe5 fxe5 30. Qg4 Rd8 31. Be3 Bf6 32. Rc1 Qd7 33. Qh5 Qe8
+34. Qf3 Rc8 35. Rd1 Rd8 36. Rc1 Rc8 37. Rb1 Rb8 38. Re1 Qg6 39. Ba7 Rc8 40. Qb7
+Qc2 41. Be3 Qc6 42. Qb4 h5 43. Bc1 Qc2 44. Be3 Rd8 45. Qb1 Qxb1 46. Rxb1 Kh7 47.
+g4 hxg4 48. hxg4 Rd6 49. Kg2 Kg6 50. Kf3 Bg5 51. Ke4 Bxe3 52. fxe3 Re6 53. Rb7
+Re8 54. Ra7 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.22"]
+[Round "5.3"]
+[White "Alekseenko, Kirill"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2767"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "4135539"]
+[BlackFideId "623539"]
+[EventDate "2020.03.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
+Nbd7 9. a3 h5 10. O-O-O Bb7 11. Kb1 Be7 12. Rg1 Rc8 13. Be2 Nb6 14. Qe1 Nfd7 15.
+g4 hxg4 16. Rxg4 g6 17. Rxg6 Rxc3 18. Nxe6 Qc8 19. Ng7+ Kf8 20. Rh6 Rxh6 21.
+Bxh6 Rxc2 22. Nf5+ Ke8 23. Nxe7 Kxe7 24. Qh4+ f6 25. Bf4 Rxb2+ 26. Kxb2 Na4+ 27.
+Kb1 Nc3+ 28. Ka1 Nxd1 29. Qh7+ Kd8 30. Qg8+ Ke7 31. Qh7+ Kd8 32. Qg8+ Ke7 33.
+Qh7+ 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.22"]
+[Round "5.4"]
+[White "Nepomniachtchi, Ian"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2762"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "8602883"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1
+O-O 9. Nbd2 Nd6 10. Nf1 Bxd3 11. Qxd3 c6 12. Bf4 Na6 13. h4 Nc7 14. Ng5 Bxg5 15.
+Bxg5 f6 16. Bf4 Qd7 17. Ng3 Rae8 18. Bxd6 Qxd6 19. Nf5 Qd7 20. Qh3 Kh8 21. h5
+Rxe1+ 22. Rxe1 Re8 23. Rxe8+ Nxe8 24. g4 a6 25. b3 Qe6 26. Ne3 Nd6 27. h6 g6 28.
+c4 dxc4 29. bxc4 Kg8 30. Qh2 Kf7 31. c5 Nb5 32. Qb8 Qd7 33. Qh8 Ke6 34. f4 Nxd4
+35. Qg8+ Qf7 36. Qc8+ Qd7 37. Qg8+ Qf7 38. Qd8 Qd7 39. f5+ gxf5 40. gxf5+ Nxf5
+41. Qxd7+ Kxd7 42. Nxf5 Ke6 43. Ne3 1-0
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.23"]
+[Round "6.1"]
+[White "Grischuk, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2842"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "4126025"]
+[BlackFideId "2020009"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6
+9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 Re8 13. Ng5 Rf8 14. Nf3 Re8 15. Re1 exd4
+16. cxd4 Nxe4 17. d5 Bxe3 18. Rxe3 Na7 19. Qd4 Bf5 20. Nbd2 Nc5 21. Rxe8+ Qxe8
+22. Re1 Qf8 23. Bd1 b4 24. Be2 Qd8 25. Bf1 h6 26. Re3 b3 27. Qf4 Bd7 28. Nd4 Rb4
+29. Rg3 Qe7 30. Bc4 Nb5 31. N4xb3 Nxb3 32. Rxb3 Qe1+ 33. Kh2 Rxb3 34. Nxb3 Qb4
+35. Qe4 c5 36. Qd3 g6 37. g4 Kg7 38. Kg2 Nc7 39. Qc3+ Qxc3 40. bxc3 f5 41. Nd2
+Kf6 42. Kg3 Bb5 43. Bb3 Be2 44. gxf5 gxf5 45. f4 Nb5 46. c4 Nc3 47. Bc2 Bd1 48.
+Bd3 Na2 49. Kf2 Nb4 50. Ke3 Bc2 51. Be2 Na2 52. Nf1 Nc1 53. Kd2 Nxe2 54. Kxe2
+Ba4 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.23"]
+[Round "6.2"]
+[White "Alekseenko, Kirill"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2763"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4135539"]
+[BlackFideId "24116068"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 a5 8. Nbd2
+Be6 9. Bb5 Ba7 10. Nf1 Ne7 11. Ng3 c6 12. Ba4 Ng6 13. h3 d5 14. exd5 Nxd5 15.
+Bc2 Qc7 16. d4 exd4 17. Nxd4 Rae8 18. Bg5 Ndf4 19. Qd2 Bd5 20. Rxe8 Rxe8 21. Re1
+Re5 22. Bxf4 Rxe1+ 23. Qxe1 Qxf4 24. Qe8+ Nf8 25. Bb3 Bxd4 26. cxd4 Bxb3 27.
+axb3 Qf6 28. Qe4 g6 29. Ne2 Ne6 30. h4 h5 31. g3 Qd8 32. Qe5 Qb6 33. d5 cxd5 34.
+Qxd5 Kf8 35. Nc3 Qc7 36. Ne4 Qc1+ 37. Kg2 Qxb2 38. Qd7 b6 39. Nd6 Qf6 40. Qe8+
+Kg7 41. Qd7 Kg8 42. Qe8+ Nf8 43. Qc6 Qd8 44. Nc4 Ne6 45. Nxb6 Nd4 46. Qc5 Nxb3
+47. Qb5 Nd2 48. Qxa5 Qd3 49. Qa1 Qe4+ 50. Kg1 Nf3+ 51. Kf1 Nxh4 52. Qa8+ Qxa8
+53. Nxa8 Nf3 54. Kg2 Ne5 55. f4 Ng4 56. Nb6 Kf8 57. Nd5 Ke8 58. Nc3 Ke7 59. Ne4
+Ne3+ 60. Kf3 Nc4 61. Ng5 Kf6 62. Ne4+ Kf5 63. Nf2 Nd2+ 64. Ke3 Nf1+ 65. Kf3 Nh2+
+66. Kg2 Ng4 67. Nh3 f6 68. Kf3 Ke6 69. Ke4 Kd6 70. Ng1 Kc5 71. Kd3 Nh6 72. Ke3
+Nf5+ 73. Kf3 Kc4 74. Nh3 Nd4+ 75. Ke3 Nf5+ 76. Kf3 Kd4 77. Nf2 Nd6 78. Nh3 Ne4
+79. Ng1 Kd3 80. Kg2 Nd2 81. Kf2 Ke4 82. Ne2 Nb1 83. Ng1 h4 84. Nh3 Kf5 85. gxh4
+Kg4 86. f5 gxf5 87. Ke3 Nc3 88. Nf2+ Kg3 89. Nd3 Nd5+ 90. Kd4 Nf4 91. Nc5 Kxh4
+92. Ke3 Kg3 93. Nb3 Ne6 94. Nd2 f4+ 95. Ke2 Ng5 96. Kf1 f3 97. Kg1 f2+ 98. Kf1
+f5 0-1
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.23"]
+[Round "6.3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2805"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "8603677"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Rxa2 Nc6 13. Bg5 Qd7 14. Bxf6 Bxf6 15.
+Nd5 a5 16. Rb2 axb4 17. axb4 Bd8 18. c4 Nd4 19. Nxd4 exd4 20. Qc2 Re8 21. g3
+bxc4 22. Qxc4 c6 23. Nf4 Bg5 24. Ne2 d5 25. exd5 cxd5 26. Qb3 h5 27. b5 h4 28.
+b6 h3 29. Kh1 Reb8 30. Rfb1 Bd8 31. Qb5 Qg4 32. Qxd5 Ra5 33. Qc6 Rc5 34. Qe8+
+Kh7 35. Ng1 Rxb6 36. Qxd8 Rxb2 37. Rxb2 Rc1 38. Qh4+ Qxh4 39. gxh4 Rd1 40. f3 1-0
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.23"]
+[Round "6.4"]
+[White "Wang, Hao"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2767"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "623539"]
+[EventDate "2020.03.17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 b6 11. h4 e6 12. h5 Qh4 13. hxg6 hxg6 14. f3 Bb7 15.
+Qd2 cxd4 16. cxd4 Rfd8 17. Rac1 Qe7 18. Rfd1 Rac8 19. Bg5 Bf6 20. Bxf6 Qxf6 21.
+Qe3 Kg7 22. Kf2 Rh8 23. Rh1 Rxh1 24. Rxh1 Rh8 25. Rxh8 Kxh8 26. Qc3 Kg8 27. d5
+Qxc3 28. Nxc3 Na5 29. Bd3 exd5 30. exd5 Kf8 31. Ke3 Ke7 32. Kd4 Bc8 33. Nb5 a6
+34. Nc7 Kd6 35. Nxa6 Nb7 36. g4 g5 37. Nb4 Bd7 38. Nc2 Ke7 39. Ne3 Nd6 40. Nd1
+Ba4 41. Nf2 f6 42. Be2 Be8 43. Nd1 Ba4 44. Nb2 Be8 45. Bd1 Nb5+ 46. Kc4 Nc7 47.
+Bb3 Kd6 48. Kd4 Nb5+ 49. Kd3 Nc7 50. Nc4+ Kc5 51. Nd2 Bb5+ 52. Ke4 Bd7 53. Nf1
+Nb5 54. Ng3 Nd6+ 55. Ke3 f5 56. gxf5 Bxf5 57. Nxf5 Nxf5+ 58. Ke4 Nh4 59. Ba4 Kd6
+60. Be8 Ng2 61. Bf7 Ne1 62. a4 Nc2 63. Be8 Ne1 64. Bb5 Ng2 65. Bc4 Nh4 66. Bf1
+Kc5 67. Bh3 Kd6 68. Be6 Ng6 69. Bf7 Nh4 70. Be8 Ng2 71. Bb5 Nh4 72. Bd3 Kc5 73.
+Bf1 Kd6 74. Bh3 Ng6 75. Be6 Nh4 76. Bf7 Ke7 77. Bh5 Kd6 78. Bg4 Ng2 79. Kf5 Kxd5
+80. Kxg5 Ke5 81. Kg6 Nf4+ 82. Kf7 Nd3 83. Ke7 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.25"]
+[Round "7.1"]
+[White "Caruana, Fabiano"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2842"]
+[BlackElo "2762"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "8602883"]
+[EventDate "2020.03.17"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
+Qd2 Nd7 9. O-O-O Nf6 10. Bd3 c5 11. Rhe1 Be6 12. Kb1 Qa5 13. c4 Qxd2 14. Nxd2
+Rad8 15. f3 b6 16. g4 d5 17. g5 Nh5 18. cxd5 Bxd5 19. Ne4 f5 20. gxf6 Nxf6 21.
+Bg5 Kf7 22. Ng3 c4 23. Bf1 b5 24. a4 a6 25. axb5 axb5 26. Nf5 Bc5 27. Re5 Bxf3
+28. Rxd8 Rxd8 29. Rxc5 Rd1+ 30. Ka2 Rxf1 31. Rxb5 c3 32. Bxf6 Kxf6 33. Ne3 Rf2
+34. Rf5+ Ke6 35. Ka3 cxb2 36. Kxb2 h5 37. h4 Rxc2+ 38. Kxc2 Be4+ 39. Kd2 Bxf5
+40. Ke2 Ke5 41. Kf3 Bd3 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.25"]
+[Round "7.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2774"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[WhiteFideId "623539"]
+[BlackFideId "4168119"]
+[EventDate "2020.03.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Qc7 8. h5 h6
+9. Rb1 b6 10. Qg4 Rg8 11. Bb5+ Kf8 12. Bd3 Ba6 13. dxc5 Bxd3 14. cxd3 Nd7 15. d4
+bxc5 16. Qd1 Qa5 17. Bd2 Rb8 18. Ne2 c4 19. O-O Rb6 20. Qc2 Rh8 21. a4 Ke8 22.
+Rb4 Nc6 23. f4 Ne7 24. Rfb1 f5 25. Rb5 Qa6 26. Bc1 Kf7 27. Ba3 Rhb8 28. Bxe7
+Kxe7 29. g4 Rxb5 30. axb5 Rxb5 31. gxf5 Rxb1+ 32. Qxb1 exf5 33. Ng3 Qb6 34.
+Nxf5+ Kf8 35. Qa1 Qe6 36. Ng3 Qg4 37. Kg2 Qxf4 38. Qxa7 Ke7 39. Qa3+ Kd8 40. Qd6
+g5 41. hxg6 h5 42. g7 1-0
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.25"]
+[Round "7.3"]
+[White "Ding, Liren"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2698"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "8603677"]
+[BlackFideId "4135539"]
+[EventDate "2020.03.17"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Bf4 b6 10. Rd1 Ba6 11. Nbd2 Rc8 12. Rac1 Nh5 13. Be3 Nhf6 14. Bg5 Bb7 15.
+Ne5 Nxe5 16. dxe5 Ng4 17. Bxe7 Qxe7 18. Nf3 f6 19. exf6 Nxf6 20. Bh3 Rce8 21.
+Qa4 c5 22. b4 cxb4 23. Qxa7 Ne4 24. Qxb6 Nc3 25. Re1 dxc4 26. a3 Bd5 27. Qxb4
+Qxb4 28. axb4 Nxe2+ 29. Rxe2 Rxf3 30. Bg2 Rff8 31. Rd2 Rb8 32. Bxd5 exd5 33.
+Rxd5 Rxb4 34. Rc2 Rc8 35. Kf1 c3 36. Ke2 Rb7 37. Rd3 Rb2 38. Kd1 Rb1+ 39. Ke2
+Rb2 40. Kd1 Rb1+ 1/2-1/2
+
+[Event "FIDE Candidates 2020"]
+[Site "Yekaterinburg RUS"]
+[Date "2020.03.25"]
+[Round "7.4"]
+[White "Giri, Anish"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2777"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "4126025"]
+[EventDate "2020.03.17"]
+
+1. c4 e5 2. g3 c6 3. Nf3 e4 4. Nd4 d5 5. cxd5 Qxd5 6. Nc2 Nf6 7. Nc3 Qe5 8. Bg2
+Na6 9. O-O Be7 10. Ne3 h5 11. d4 exd3 12. exd3 Qd4 13. Nc2 Qg4 14. Bf4 Qxd1 15.
+Raxd1 Bg4 16. Rd2 O-O-O 17. d4 Nc7 18. Ne3 Be6 19. d5 Ncxd5 20. Ncxd5 Nxd5 21.
+Nxd5 Bxd5 22. Rxd5 Rxd5 23. Bxd5 cxd5 24. Rc1+ Kd7 25. Rc7+ Ke6 26. Rxb7 Rc8 27.
+Rxa7 Rc2 28. Be3 Bf6 29. Ra4 Bxb2 30. Kg2 d4 31. Bxd4 Bxd4 32. Rxd4 Rxa2 33.
+Re4+ Kf6 34. Rf4+ Ke6 35. Re4+ Kf6 36. Rf4+ Ke6 37. Re4+ Kf6 38. Rf4+ Ke6 39. h4
+g6 40. Re4+ Kf6 1/2-1/2
+
