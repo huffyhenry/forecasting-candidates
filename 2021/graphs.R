@@ -4,7 +4,7 @@ library(ggrepel)
 library(dplyr)
 
 ggthemr("solarized")
-source("common.R")
+source("2021/common.R")
 
 # Rating evolution for selected players
 p <- candidates

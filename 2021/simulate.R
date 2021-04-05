@@ -2,13 +2,13 @@
 # Assumes that we have the `draws` object from run.R.
 library(purrr)
 
-source("common.R")
+source("2021/common.R")
 
 f <- function(x, t){
   filter(t, player==x)$points
 }
 
-first.leg <- read_pgn("data/pgn/.candidates2020.pgn") %>%
+first.leg <- read_pgn("2021/data/pgn/.candidates2020.pgn") %>%
   select(White, Black, Result) %>%
   rename_with(tolower)
 

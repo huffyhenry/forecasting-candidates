@@ -3,9 +3,9 @@ library(tidyr)
 library(purrr)
 library(readr)
 
-source("common.R")
+source("2021/common.R")
 
-all.games <- list.files("data/pgn/", full.names=TRUE) %>%
+all.games <- list.files("2021/data/pgn/", full.names=TRUE) %>%
   lapply(read_pgn) %>%
   reduce(bind_rows) %>%
   arrange(desc(Date), Event)
@@ -53,7 +53,7 @@ dataset <- all.games %>%
     )
   ) %>%
   select(-DaySpeed) %>%
-  write_csv("data/results.csv")
+  write_csv("2021/data/results.csv")
 
 
 # carlsen.tour <- c(

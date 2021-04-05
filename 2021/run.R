@@ -6,7 +6,7 @@ library(readr)
 library(stringr)
 library(lubridate)
 
-results <- read_csv("data/results.csv") %>%
+results <- read_csv("2021/data/results.csv") %>%
   mutate(
     ResultCode=case_when(
       Result == "1-0" ~ 1,
@@ -32,7 +32,7 @@ stan_data <- list(
   dates=as.numeric(dates - min(dates))
 )
 
-model <- cmdstan_model("model.stan", dir="compiled-models/")
+model <- cmdstan_model("2021/model.stan", dir="2021/compiled-models/")
 fit <- model$sample(
     data=stan_data,
     chains=4,
@@ -42,7 +42,7 @@ fit <- model$sample(
     refresh=10
 )
 fit$cmdstan_diagnose()
-fit$save_object("hugefit.rds")
+fit$save_object("2021/hugefit.rds")
 
 draws <- fit$draws(variables=c("rating", "nu[1]")) %>%
   as_draws_df() %>%
